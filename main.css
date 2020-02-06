@@ -1,0 +1,18 @@
+p {color:ivory; 
+}
+
+h1 {
+    background-color:black;
+}
+
+body {background-color:darkred;
+ }
+ 
+.loud_text {
+    background-color: rgb(94, 25, 36);
+    text-align:center;
+    color:rebeccapurple;}
+
+#myitem {
+    background-color: black;
+}
